@@ -2,7 +2,7 @@
 
 <!--
 **FATYU/FATYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github-readme-stats.vercel.app/api?username=FATYU&line_height=20)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Eating
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=FATYU&line_height=20)
+- 🔭 I’m currently working on Eating
+- 🌱 I’m currently learning Golang and Rust
+- 📫 How to reach me: ![website](https://www.notalk.cc)
