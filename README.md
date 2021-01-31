@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=FATYU&line_height=20)
 - 🔭 I’m currently working on Eating
 - 🌱 I’m currently learning Golang and Rust
-- 📫 How to reach me: ![website](https://www.notalk.cc)
+- 📫 How to reach me: [](https://www.notalk.cc)
