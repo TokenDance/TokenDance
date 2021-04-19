@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Z-A2G65S-Z-A2G65S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HugePages-HugePages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Z-A2G65S&line_height=20)
+![](https://github-readme-stats.vercel.app/api?username=HugePages&line_height=20)
 - 🔭 I’m currently working on Eating
 - 🌱 I’m currently learning Golang and Rust
 - 📫 How to reach me: [](https://www.btb.sh)
