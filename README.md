@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=HugePages&line_height=20)
 - 🔭 I’m currently working on Eating
 - 🌱 I’m currently learning Golang and Rust
-- 📫 How to reach me: [](https://www.btb.sh)
+- 📫 How to reach me: ![website](https://www.btb.sh)
