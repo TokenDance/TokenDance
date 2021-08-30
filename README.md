@@ -16,4 +16,4 @@
 
 #### Status 👋
 
-<img height="168px" src="https://github-readme-stats.vercel.app/api?username=HugePages&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=monokai" /><img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugePages&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&theme=monokai" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=HugePages&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=monokai" /><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugePages&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&theme=monokai" />
