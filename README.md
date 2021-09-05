@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=Notion&logoColor=white" />
 
 <br>
-<img src="https://github.com/HugePages/HugePages/blob/master/banner.gif" >
+<img src="https://github.com/HugePages/HugePages/blob/main/banner.gif" >
 
 #### Status 👋
 
