@@ -1,5 +1,5 @@
 
-<br><img src="https://raw.githubusercontent.com/TokenDance/TokenDance/main/gif1.gif" >
+<br><img src="https://raw.githubusercontent.com/TokenDance/TokenDance/main/banner.gif" >
 #### About Me 🥷🏻
 - 🔭 I’m a backend engineer.
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Rust](https://www.rust-lang.org).
